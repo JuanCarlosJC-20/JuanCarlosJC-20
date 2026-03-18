@@ -8,6 +8,12 @@ EMAIL: sampfz23@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
+<h1 align="center">Juan David Pérez Gómez</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+</p>
+
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Carlos%20Jurado%20Castañeda&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20Junior%20|%20Full%20Stack%20Enthusiast&descAlignY=52&descSize=18"/>
 
