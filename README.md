@@ -1,11 +1,12 @@
 <div align="center">
 
-  
+  <!--
 CONFIG
 FULL_NAME: Juan Carlos Jurado
 GITHUB_USER: JuanCarlosJC-20
 EMAIL: sampfz23@gmail.com
 CODE_ORGANIZATION: code-sena
+-->
 
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Carlos%20Jurado%20Castañeda&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20Junior%20|%20Full%20Stack%20Enthusiast&descAlignY=52&descSize=18"/>
