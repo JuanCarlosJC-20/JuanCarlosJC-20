@@ -2,7 +2,7 @@
 
   <!--
 CONFIG
-FULL_NAME: Juan Carlos Jurado
+FULL_NAME: Juan Carlos Jurado CASTAÑEDA!!
 GITHUB_USER: JuanCarlosJC-20
 EMAIL: sampfz23@gmail.com
 CODE_ORGANIZATION: code-sena
